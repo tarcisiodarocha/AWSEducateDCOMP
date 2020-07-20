@@ -14,7 +14,7 @@ Podem se associar ao AWS Educate professores e alunos do DCOMP. Os procedimentos
         * "Link to class or school biography": Use a url da sua página pública do SIGAA. Ex: https://sigaa.ufs.br/sigaa/public/docente/portal.jsf?siape=2662198
         * Em experiências prévias, observou-se um prazo aproximado de 1 semana para ativação da conta tipo professor pela equipe AWSEducate.
   * ALUNOS
-      * Em https://www.awseducate.com/registration#INFO-Educator registre-se como "Educator" preenchendo os dados do formulário e dado especial atenção os seguintes campos: 
+      * Em https://www.awseducate.com/registration#INFO-Educator registre-se como "Student" preenchendo os dados do formulário e dado especial atenção os seguintes campos: 
         * "School or institution name": Preencher "Universidade Federal de Sergipe - DCOMP"
         * "Email": Use o seu email do domínio "dcomp.ufs.br" 
         * "Graduation month" e "Graduation year": mês e ano previstos para a sua formatura. Depois dessa data informada, a AWS Educate deixa de conceder créditos ao aluno. Se o aluno teve uma eventual mudança de percurso quanto a essa data, ele pode apresentar justificativa à equipe de suporte da AWS para que continue a receber os créditos.     
